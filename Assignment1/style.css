@@ -1,6 +1,6 @@
 body { background-color: rgb(238, 230, 231) }
 		div { width: 500px; margin:auto;}
-		#para { border: dotted;
+		#para { border: solid;
 				border-color:  rgb(255, 255, 255);
 				padding-bottom:  all;
 				text-align: center;
