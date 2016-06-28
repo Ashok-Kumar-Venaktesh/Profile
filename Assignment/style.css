@@ -1,0 +1,12 @@
+body { background-color: rgb(238, 230, 231) }
+		div { width: 500px; margin:auto;}
+		#para { border: dotted;
+				border-color:  rgb(255, 255, 255);
+				padding-bottom:  all;
+				text-align: center;
+				padding-top: 10px;
+    			padding-right: 50px;
+    			padding-bottom: 10px;
+    			padding-left: 50px;
+				 }
+		
