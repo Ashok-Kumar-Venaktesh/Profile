@@ -1,0 +1,30 @@
+.wrap {
+	background-color:rgb(16, 131, 181);
+	width: 600px;
+	margin: auto;
+	min-width: 600px;
+	overflow: hidden;
+
+}
+h1{
+	text-align: center;
+}
+
+.content {
+	float: left;
+	width: 70%;
+	background-color: green;
+	text-align: center;
+	height: 600px;
+	}
+
+aside{
+	float: left;
+	width: 30%;
+	background-color: brown;
+	height: 600px;
+}
+
+footer{
+	text-align: center;
+}

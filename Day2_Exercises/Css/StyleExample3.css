@@ -1,0 +1,22 @@
+
+body {background-color:rgb(126, 171, 121);}
+
+form ul{
+	list-style: none;
+	padding-left: 0px;
+	
+
+}
+
+textarea{
+	width: 200px;
+	height: 100px;
+}
+		
+label{
+	display: block;
+	cursor: pointer;
+	padding-bottom: 2px;
+	font-family: sans-serif;
+}
+
