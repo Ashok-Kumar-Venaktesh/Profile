@@ -1,0 +1,47 @@
+body{
+  background-color: rgb(255, 255, 255);
+}
+
+header li{
+	display: inline;
+	float: left;
+	font-size: 13px;
+	color: black;
+	}
+
+header a{
+	color: black;
+	text-decoration:  none;
+}
+
+header a:hover{
+	color:green;
+	text-decoration: underline;
+	font-size: 15px;
+}
+header{
+	background-color: brown;
+	background-size: cover;
+}
+
+h1.grid_8{
+	margin-left: 0px;
+}
+
+
+header h1{
+	
+	//background-color: green;
+	margin-top:10px;
+	font-family: Raleway;
+	font-size: 36px;
+}
+
+
+nav{
+	//background-color: yellow;
+	margin:30px;
+}
+#hero {
+    background-image: url("../images/happy-birthday.jpg");
+}
